@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">belajar pertemuan 01SQLite</string>
+    <string name="masukkan_menu_favorit">Masukkan menu favorit</string>
+    <string name="simpan">Simpan</string>
+    <string name="update">Update</string>
+    <string name="hapus">Hapus</string>
+    <string name="masukkan_nama_mahasiswa">masukkan nama mahasiswa</string>
+    <string name="masukkan_nim">Masukkan Nim</string>
+    <string name="prodi">Prodi</string>
+</resources>
